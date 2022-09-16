@@ -1,0 +1,11 @@
+.not-hovered {
+    background-color: white;
+}
+
+.hovered {
+    background-color: blue;
+}
+
+div {
+    vertical-align: top;
+}
